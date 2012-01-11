@@ -1,0 +1,9 @@
+Sample C programs
+Started with programs mentioned in 
+"Expert C Programming. Deep C Secrets"
+by Peter Van der Linden
+
+naming convention used
+pgnum_prog_name.c
+
+pgnum is the page number in the book represented in 3 digits.
